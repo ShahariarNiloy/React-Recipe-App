@@ -1,6 +1,6 @@
 # #React-Recipe-App README
 
-## <a href='https://stellar-quokka-a6b672.netlify.app/' target='_blank'>LIVE DEMO</a>
+## <a href='https://mellifluous-tapioca-62d37c.netlify.app/' target='_blank'>LIVE DEMO</a>
 
 
 # Getting Started with Create React App
